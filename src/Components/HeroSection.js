@@ -10,11 +10,11 @@ function HeroSection() {
             <h1>AVENTURA E EMOÇÃO</h1>
             <p>O que você está esperando ?</p>
             <div className='hero-btns'>
-            <Button className="btns" buttonStyle="btn--outline" buttonSize='btn-large'>COMEÇAR 
+            <Button className="btns" buttonStyle="btn--outline" buttonSize='btn--large'>COMEÇAR 
             </Button>
 
-            <Button className="btns" buttonStyle="btn--primary" buttonSize='btn-large'>VER TRAILER 
-            <i className="farf fa-play-cicle"/>
+            <Button className="btns" buttonStyle="btn--primary" buttonSize='btn--large'>VER TRAILER 
+            <i className="far fa-play-circle"/>
             </Button>
             </div>
         </div>
