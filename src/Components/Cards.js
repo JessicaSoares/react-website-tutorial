@@ -14,6 +14,17 @@ function Cards() {
                         label = "Aventura"
                         path = '/servicos'
                         />
+                        <CardItem src="images/img-2.jpg"
+                        text = "explore as profundezas da selva amazonica"
+                        label = "Aventura"
+                        path = '/servicos'
+                        />
+                        <CardItem src="images/img-2.jpg"
+                        text = "explore as profundezas da selva amazonica"
+                        label = "Aventura"
+                        path = '/servicos'
+                        />
+                        
 
                    </ul>
                 </div> 
